@@ -9,8 +9,8 @@
         https://dta149iup0.execute-api.us-east-1.amazonaws.com/test/mutation
     
     JSON Example:
-  ``` 
+ ``` 
 {
     "dna":["ATGCGA", "CAGTGC", "TTATGT", "AGAAGG", "CCCCTA", "TCACTG"]
 }
-    ```
+```
